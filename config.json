@@ -1,0 +1,15 @@
+{
+	"Token": "TOken-here",
+	"Prefix": ">",
+
+	"Channel-Names": ["ACED WAS HERE, YUM WAS HERE"], 
+	"Server-Names": ["ACED OWNS YOU, YUM OWNS YOU"],
+	"Role-Names": ["ACED ON TOP, YUM ON TOP"],
+	"Reason": ["ACED WAS HERE, YUM WAS HERE"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["aced on top"],
+	"Spam-Messages": ["@everyone @here ACEDxYUM https://discord.gg/WGJpqHfVw5 JOIN FOR FREE NITRO"],
+	"Spam-Amount": 10000
+}
